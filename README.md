@@ -29,6 +29,7 @@ Clean old build files with
 make clean
 ```
 
+### Example output
 ```text
 Enter the length of the refrence String
 > 20
